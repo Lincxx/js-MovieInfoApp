@@ -1,4 +1,4 @@
-This is a Brad Travery clone of his Movie info app.
+This is a Brad Traversy clone of his Movie info app.
 
 You can find his tutorial here: https://www.youtube.com/watch?v=YsPqjYGauns
 
