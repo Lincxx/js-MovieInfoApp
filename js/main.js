@@ -64,7 +64,6 @@ function getMoive(){
                 <a href="index.html" class="btn btn-primary">Go Back To Search</a>
             </div>
             `;
-
             $('#movie').html(output);
         })
         .catch((err) => {
